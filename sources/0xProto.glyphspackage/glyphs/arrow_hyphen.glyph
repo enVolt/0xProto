@@ -1,0 +1,24 @@
+{
+glyphname = arrow_hyphen;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+closed = 1;
+nodes = (
+(588,261,l),
+(588,349,l),
+(32,349,l),
+(32,261,l)
+);
+}
+);
+width = 620;
+},
+{
+layerId = m002;
+width = 600;
+}
+);
+}
